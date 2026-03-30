@@ -1,10 +1,11 @@
 import './App.css'
+import Dashboard from './DashBoard';
 
 function App() {
 
   return (
     <>
-      <h1>Hello Umaisha</h1>
+      <Dashboard/>
     </>
     
   )
