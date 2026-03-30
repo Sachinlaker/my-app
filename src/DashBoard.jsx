@@ -57,7 +57,7 @@ export default function Dashboard() {
       <aside style={s.sidebar}>
         <div style={s.brand}>
           <div style={s.brandDot} />
-          <span style={s.brandName}>Nucleus</span>
+          <span style={s.brandName}>SPORT NOTE</span>
         </div>
 
         <nav style={{ flex: 1 }}>
