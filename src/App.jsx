@@ -1,11 +1,11 @@
 import './App.css'
-import Dashboard from './DashBoard';
+import SportNote from './SportNote';
 
 function App() {
 
   return (
     <>
-      <Dashboard/>
+      <SportNote/>
     </>
     
   )
